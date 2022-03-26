@@ -15,7 +15,7 @@ setInterval(function (){
         if(a == images.length){
             a = 0
         }
-}, 1000)
+}, 1500)
 
 next.addEventListener("click", function(){
     a++
